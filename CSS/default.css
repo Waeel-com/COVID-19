@@ -1,0 +1,33 @@
+
+
+table, th, td {
+    border: 1.5px solid RebeccaPurple;
+}
+body {
+  width:1080px;
+  background-color:GhostWhite;
+  font-family:verdane, arial, sans-serif;
+  font-size:large;   
+  color:Indigo /* some light red color short HEX form Ex: Black --> #000000 */
+}
+h1, h3 
+{
+	  color:DarkSlateBlue;
+	  text-align:center;
+	
+	}
+ul, li 
+{
+	  background-color:Cornsilk;
+	  color:rgb(108, 108, 193);
+	  font-size:large;
+	}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
